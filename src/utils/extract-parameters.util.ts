@@ -1,7 +1,7 @@
 import { plainToInstance } from "class-transformer";
 import { validate } from "class-validator";
 import type { Request as ExpressRequest, Response as ExpressResponse } from "express";
-import { ParamItem } from "src/decorators/params.decorator";
+import { ParamItem } from "../decorators/params.decorator";
 
 import { ParameterType } from "../enums/parameters.enum";
 

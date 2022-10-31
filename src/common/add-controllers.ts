@@ -1,6 +1,6 @@
 import express, { NextFunction, Request, Response } from "express";
-import { MetadataKey } from "src/enums";
-import { extractParameters } from "src/utils/extract-parameters.util";
+import { MetadataKey } from "../enums";
+import { extractParameters } from "../utils/extract-parameters.util";
 import { MiddlewareMap, RouterItem } from "../decorators";
 import { ParamsInfoMap } from "../decorators/params.decorator";
 
