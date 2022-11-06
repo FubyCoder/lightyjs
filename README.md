@@ -9,7 +9,7 @@ This also adds support for async routes and the responses from the routers can b
 # How to install
 
 ```
-yarn add reflect-metadata class-transformer class-validator https://github.com/FubyCoder/lightyjs
+yarn add reflect-metadata class-transformer class-validator lightyjs
 ```
 
 # How to use

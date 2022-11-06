@@ -1,3 +1,4 @@
+import { isClass } from "../utils/is-class.util";
 import { MetadataKey } from "../enums";
 import { ParameterType } from "../enums/parameters.enum";
 

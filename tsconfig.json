@@ -6,8 +6,8 @@
         "forceConsistentCasingInFileNames": true,
         "strict": true,
         "skipLibCheck": true,
-        "baseUrl": "./",
-        "rootDir": "./src",
+        "baseUrl": "./src",
+        "rootDir": "./",
         "outDir": "./dist",
         "declaration": true
     }

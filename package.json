@@ -1,12 +1,11 @@
 {
     "name": "lightyjs",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "description": "An expressjs decorator framework",
     "main": "./dist/index.js",
-    "private": "true",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "prepare": "yarn tsc"
+        "build": "yarn tsc",
+        "publish" : "npm publish"
     },
     "repository": {
         "type": "git",
